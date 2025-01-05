@@ -1,7 +1,7 @@
 {
   "name": "ydashboard",
   "version": "0.1.0",
-  "homepage": "https://yashtest027.github.io/ydashboard",
+  "homepage": "https://yashtest027.github.io",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
